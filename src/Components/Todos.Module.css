@@ -1,0 +1,15 @@
+.todo {
+  padding: 25px;
+  background-color: #effbda;
+  border: 2px solid #000;
+  width: 500px;
+  margin: auto;
+}
+
+button {
+  padding: 5px 25px;
+  text-align: center;
+  align-items: center;
+  background-color: #ccc;
+  color: #333;
+}
